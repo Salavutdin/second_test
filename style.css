@@ -8,13 +8,13 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4;
-    color: #333;
+    color: #222020;
     line-height: 1.6;
 }
 
 /* Стили для шапки */
 header {
-    background-color: #282c34;
+    background-color: #2b3344;
     color: white;
     padding: 20px 0;
 }
